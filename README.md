@@ -14,6 +14,8 @@ Here is whats in here...
 
 ### Simplistic materials
 
+[Download file](https://github.com/cmd410/cmd-bar/blob/master/simplistic-materials.blend?raw=true)
+
 Simple semi-realistic materials with slight stylization going on
 
 Diffuse:
@@ -25,6 +27,8 @@ Metal:
 ![](./img/simplistic-materials-metal.jpg)
 
 ### Fog post-process
+
+[Download file](https://github.com/cmd410/cmd-bar/blob/master/fog-post-process.blend?raw=true)
 
 A simple, yet, good enough looking fog post-process effect, for those who struggle to render true volumetric fog on their hardware, or for those cases where true fog just doesn't achieve the desired effect. Needs only an **Image** to work on and **Mist pass** from render.
 
